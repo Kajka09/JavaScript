@@ -55,3 +55,5 @@ wartoscParametru(wynik);
 wartoscParametru(wynik2); 
 wartoscParametru(wynik3); 
 
+
+
